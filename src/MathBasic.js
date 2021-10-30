@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const MathBasic = {
   add: (...args) => {
     if (args.length !== 2) {

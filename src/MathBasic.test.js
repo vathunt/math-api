@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const MathBasic = require('./MathBasic');
 
 describe('A MathBasic', () => {
